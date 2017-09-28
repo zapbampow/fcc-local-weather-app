@@ -1,0 +1,41 @@
+body{
+  background-color: #111;
+  color: #ddd;
+}
+
+#content-box{
+}
+
+#title-text{
+  font-size: 3em;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+
+.main-content{
+  font-size: 2em;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  margin: 0 0 0 0;
+  
+}
+
+#weather-icon {
+  font-size: 3.5em;
+  margin: .25em;
+}
+
+.footer {
+  font-size: .75em;
+  vertical-align: bottom;
+}
+
+.footer a, a:hover{
+  color:white;
+}
+
+#description {
+  font-size: 2em;
+  vertical-align: top;
+  margin-top: 0;
+}
